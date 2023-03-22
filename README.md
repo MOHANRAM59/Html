@@ -8,15 +8,15 @@ There are three layers of web,
         2)Presentation layer
         3)Behavior layer
 
-       ### Structure layer:
+        Structure layer:
             Represents content of web Page.
             HTML is responsible for this layer.
 
-      ###  Presentation layer:
+        Presentation layer:
             Desides look and feel of web page.
             Css is Responsible.
 
-      ###  Behavior layer:
+        Behavior layer:
             Desides reaction for user interaction.
             JavaScript is responsible.
 
