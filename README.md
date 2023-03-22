@@ -1,6 +1,6 @@
 # Html
 
-Text Editors:
+### Text Editors:
         user can use any text editors which is simple and easy to use.
 
 There are three layers of web,
@@ -8,22 +8,22 @@ There are three layers of web,
         2)Presentation layer
         3)Behavior layer
 
-        Structure layer:
+       ### Structure layer:
             Represents content of web Page.
             HTML is responsible for this layer.
 
-        Presentation layer:
+      ###  Presentation layer:
             Desides look and feel of web page.
             Css is Responsible.
 
-        Behavior layer:
+      ###  Behavior layer:
             Desides reaction for user interaction.
             JavaScript is responsible.
 
-Web page:
+### Web page:
     A file  which holds the information.
 
-Tags:
+### Tags:
     An HTML tag is a piece of markup language used to indicate the beginning and end of an HTML element in an HTML document.
 
         some examples of tags are
